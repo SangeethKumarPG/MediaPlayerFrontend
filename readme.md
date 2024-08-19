@@ -1,1 +1,0 @@
-React Media Player Frontend
